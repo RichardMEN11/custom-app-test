@@ -9,9 +9,10 @@ import SwiftUI
 
 @main
 struct playground_novaApp: App {
+    @StateObject var viewRouter: ViewRouter = ViewRouter()
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            ContentView(viewRouter: ViewRouter())
         }
     }
 }

@@ -11,6 +11,7 @@
 		50BEC929275AB99A00E9A6F1 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50BEC928275AB99A00E9A6F1 /* ContentView.swift */; };
 		50BEC92B275AB99B00E9A6F1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 50BEC92A275AB99B00E9A6F1 /* Assets.xcassets */; };
 		50BEC92E275AB99B00E9A6F1 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 50BEC92D275AB99B00E9A6F1 /* Preview Assets.xcassets */; };
+		50BEC935275AC9A600E9A6F1 /* ViewRouter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50BEC934275AC9A500E9A6F1 /* ViewRouter.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		50BEC928275AB99A00E9A6F1 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		50BEC92A275AB99B00E9A6F1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		50BEC92D275AB99B00E9A6F1 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		50BEC934275AC9A500E9A6F1 /* ViewRouter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewRouter.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				50BEC926275AB99A00E9A6F1 /* playground_novaApp.swift */,
 				50BEC928275AB99A00E9A6F1 /* ContentView.swift */,
+				50BEC934275AC9A500E9A6F1 /* ViewRouter.swift */,
 				50BEC92A275AB99B00E9A6F1 /* Assets.xcassets */,
 				50BEC92C275AB99B00E9A6F1 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				50BEC935275AC9A600E9A6F1 /* ViewRouter.swift in Sources */,
 				50BEC929275AB99A00E9A6F1 /* ContentView.swift in Sources */,
 				50BEC927275AB99A00E9A6F1 /* playground_novaApp.swift in Sources */,
 			);
