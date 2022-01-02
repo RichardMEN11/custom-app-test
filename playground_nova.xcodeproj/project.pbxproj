@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5067C22A276D1F9400F6735E /* LoginView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5067C229276D1F9400F6735E /* LoginView.swift */; };
 		50BEC927275AB99A00E9A6F1 /* playground_novaApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50BEC926275AB99A00E9A6F1 /* playground_novaApp.swift */; };
 		50BEC929275AB99A00E9A6F1 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50BEC928275AB99A00E9A6F1 /* ContentView.swift */; };
 		50BEC92B275AB99B00E9A6F1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 50BEC92A275AB99B00E9A6F1 /* Assets.xcassets */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		5067C229276D1F9400F6735E /* LoginView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginView.swift; sourceTree = "<group>"; };
 		50BEC923275AB99A00E9A6F1 /* playground_nova.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = playground_nova.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		50BEC926275AB99A00E9A6F1 /* playground_novaApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = playground_novaApp.swift; sourceTree = "<group>"; };
 		50BEC928275AB99A00E9A6F1 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -55,6 +57,7 @@
 			children = (
 				50BEC926275AB99A00E9A6F1 /* playground_novaApp.swift */,
 				50BEC928275AB99A00E9A6F1 /* ContentView.swift */,
+				5067C229276D1F9400F6735E /* LoginView.swift */,
 				50BEC934275AC9A500E9A6F1 /* ViewRouter.swift */,
 				50BEC92A275AB99B00E9A6F1 /* Assets.xcassets */,
 				50BEC92C275AB99B00E9A6F1 /* Preview Content */,
@@ -143,6 +146,7 @@
 				50BEC935275AC9A600E9A6F1 /* ViewRouter.swift in Sources */,
 				50BEC929275AB99A00E9A6F1 /* ContentView.swift in Sources */,
 				50BEC927275AB99A00E9A6F1 /* playground_novaApp.swift in Sources */,
+				5067C22A276D1F9400F6735E /* LoginView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
